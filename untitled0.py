@@ -10,7 +10,7 @@ Original file is located at
 import numpy as np
 
 # 1. Massiv yaratish
-# Bu dilyorbekning ishi
+# Bu Dilyorbekning ishi
 array_1d = np.array([1, 2, 3, 4, 5])
 array_2d = np.array([[1, 2, 3], [4, 5, 6]])
 
@@ -24,3 +24,6 @@ print("2D Massiv:\n", array_2d)
 print("Massivlar yig'indisi: ", sum_array)
 print("O'rtacha: ", mean_array)
 print("Ko'paytma: ", product_array)
+
+
+
